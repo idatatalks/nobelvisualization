@@ -10,6 +10,9 @@ The is a single page application and based on **React + MUI + Recharts + d3 **.
 
 ### Demo
 
+![A Nobel Winners Data-Viz Demo ](https://media.giphy.com/media/NA3gKZhxUcPK6GJhW0/giphy.gif)
+
+
 ### Supported Platform
 Thanks to the invention of responsive design,
 the project support both desktop and mobile.
