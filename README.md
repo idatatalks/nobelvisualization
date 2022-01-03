@@ -1,6 +1,8 @@
 ## Nobel winners data visualization
 
 This is a data exploration project to visualize Nobel Prize Winners in history.
+You can explore the project in:  
+https://idatatalks.github.io/nobel-dev/
 
 ### Framework
 
@@ -9,6 +11,11 @@ The is a single page application and based on **React + MUI + Recharts + d3 **.
 ### Supported Platform
 Thanks to the invention of responsive design,
 the project support both desktop and mobile.
+
+### Build
+- download code to your local folder
+- npm install
+- npm start
 
 ### Future plan
 - update dataset to include the latest Nobel Winners
