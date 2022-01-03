@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.ScatterPlot {
+  width: 50vw;
+  height: 50vh;
+}
+
+.recharts-responsive-container {
+  overflow: auto;
+}
