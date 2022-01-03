@@ -14,8 +14,7 @@ You can explore the project in:
 https://idatatalks.github.io/nobel-dev/
 
 ### Supported Platform
-Thanks to the invention of responsive design,
-the project support both desktop and mobile.
+The project follows responsive design and support both desktop and mobile.
 
 ### Build
 - download code to your local folder
@@ -29,6 +28,6 @@ the project support both desktop and mobile.
 - add an publishing age chart to show how old of nobel winners when they published their papers which won the nobel prize.
 
 ### Contact
-I love data stories and data visualization.
+I love data stories and data visualization.  
 If you find any bugs, or have any ideas,
 Please feel free to contact me at **idatatalks@gmail.com**
