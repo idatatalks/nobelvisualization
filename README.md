@@ -10,8 +10,14 @@ You can explore the project in:
 https://idatatalks.github.io/nobel-dev/
 
 ### Framework
-The is a JS single page application based on the following techs:  **React + MUI + Recharts + d3 **.
-
+The is a JS single page application based on the following techs:  
+  ** 
+  - React 
+  - MUI 
+  - Recharts 
+  - d3 
+  - **
+  
 ### Supported Platform
 The project follows responsive design and support both desktop and mobile.
 
