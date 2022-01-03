@@ -10,7 +10,7 @@ The is a single page application and based on **React + MUI + Recharts + d3 **.
 
 ### Demo
 
-![A Nobel Winners Data-Viz Demo ](https://media.giphy.com/media/NA3gKZhxUcPK6GJhW0/giphy.gif)
+![A Nobel Winners Data-Viz Demo ](https://media.giphy.com/media/NA3gKZhxUcPK6GJhW0/giphy.gif) | width=600
 
 
 ### Supported Platform
